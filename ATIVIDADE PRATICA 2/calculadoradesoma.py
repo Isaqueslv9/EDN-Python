@@ -1,0 +1,9 @@
+print("CALCULADORA DE SOMA")
+print("=-" * 40)
+
+A = int(input("Digite o valor de A: "))
+B = int(input("Digite o valor de B: "))
+
+X = A + B
+
+print(f"X = {X}")
