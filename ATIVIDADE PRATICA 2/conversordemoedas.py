@@ -12,5 +12,6 @@ valor_euros = valor_reais / taxa_euro
 print(f"Valor em Reais: R$ {valor_reais:.2f}")
 print(f"Taxa do Dolar: R$ {taxa_dolar:.2f}")
 print(f"Taxa do Euro: R$ {taxa_euro:.2f}")
-print(f"\nValor em Dolares: $ {valor_dolares:.2f}")
+print(f"Valor em Dolares: $ {valor_dolares:.2f}")
 print(f"Valor em Euros: € {valor_euros:.2f}")
+
