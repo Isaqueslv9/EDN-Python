@@ -1,0 +1,11 @@
+{
+    "nome": "Carlos Ferreira",
+    "idade": 32,
+    "cidade": "Porto Alegre",
+    "profissao": "Engenheiro",
+    "hobbies": [
+        "leitura",
+        "programação",
+        "música"
+    ]
+}
